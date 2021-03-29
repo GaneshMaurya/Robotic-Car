@@ -1,5 +1,5 @@
 # Robotic-Car
-Robotic Car with Voice Input and Output to Control Distance and Direction
+Robotic Car with Voice Command to Control Distance and Direction
 
 Robot should be controlled by the given voice commands from the phone. The voice is transferred from the mobile phone application to the 
 Bluetooth module connected to the Arduino. Based on the commands for example: 
